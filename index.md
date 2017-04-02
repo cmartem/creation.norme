@@ -17,7 +17,7 @@
    Accessoirement, la création de la norme est souvent accompagnée par la définition de l’anormal. Les deux éléments peuvent se présenter comme clés pour la construction de l’identité ou comme critère de la marginalisation. Il est donc question de définir les critères de norme (politique, législative, sociale, religieuse ou culturelle) et de normalité (perçue comme telle, intériorisée, du côté du « bien »).   
    
    Enfin, la norme pose question au chercheur. Elle provient alors du travail de classification et de systématisation, réalisé tout au long de l'analyse scientifique. Le chercheur organise inévitablement son récit selon les valeurs prédéfinies par l’objet d’étude. Or, souvent, ce filtrage provient de l'état des sources ou de l'insuffisance de l'information. L'historien Henri-Irénée Marrou l'a dit :
-   *« l'archéologue, l'archiviste recueille tout, doit tout recueillir, ne rien laisser perdre du passé : il s'honore lorsqu'il peut retrouver chez un chiffonnier tel lot qu'une administration négligente avait vendu comme “papiers sans intérêt”, car il pourra toujours survenir un historien capable de poser la question pour laquelle ces papiers, ou ces menus tessons, prendront valeur de document* [Marrou, 1954]».
+   *« l'archéologue, l'archiviste recueille tout, doit tout recueillir, ne rien laisser perdre du passé : il s'honore lorsqu'il peut retrouver chez un chiffonnier tel lot qu'une administration négligente avait vendu comme “papiers sans intérêt”, car il pourra toujours survenir un historien capable de poser la question pour laquelle ces papiers, ou ces menus tessons, prendront valeur de document* »[Marrou, 1954].
    
 
 ## Les communications devront s’inscrire dans un des axes suivants :

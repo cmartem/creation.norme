@@ -29,12 +29,13 @@
 Cette journée de doctorant.e.s s’inscrit dans un axe de recherche « Normes et exercice de la norme » et aura pour objectif de présenter les travaux des doctorants autour d’une question concernant tous les sujets de recherche de ces derniers. Elle pourra prendre une forme méthodologique ou concerner plus directement leurs recherches en cours. Les propositions de communications peuvent être envoyées **avant le 30 juin 2017** à l'adresse  *creation.norme@gmail.com*.  Les résumés sans titres ne doivent pas dépasser 1500 caractères, espaces compris.
 
 Organisateurs:
-Ekaterina Martemyanova, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/martemyanova-katia--588975.kjsp?RH=1267526559504)
   
-Marine Tesson, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/tesson-marine-758266.kjsp0)
+**Ekaterina Martemyanova**, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/martemyanova-katia--588975.kjsp?RH=1267526559504)
+  
+**Marine Tesson**, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/tesson-marine-758266.kjsp0)
 
   
-Contact: **Ekaterina Martemyanova** [creation [point] norme [at] gmail [point] com] (creation.norme@gmail.com)
+Contact: Ekaterina Martemyanova [creation [point] norme [at] gmail [point] com] (creation.norme@gmail.com)
 
 
 ### Mots-clés : axiologie, normal, norme, recherche, transformation.

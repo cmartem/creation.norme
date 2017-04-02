@@ -30,9 +30,9 @@ Cette journée de doctorant.e.s s’inscrit dans un axe de recherche « Normes e
 
 Organisateurs:
   
-**Ekaterina Martemyanova**, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/martemyanova-katia--588975.kjsp?RH=1267526559504)
+*Ekaterina Martemyanova*, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/martemyanova-katia--588975.kjsp?RH=1267526559504)
   
-**Marine Tesson**, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/tesson-marine-758266.kjsp0)
+*Marine Tesson*, [doctorante du CRHEC](http://crhec.u-pec.fr/membres/doctorants/tesson-marine-758266.kjsp0)
 
   
 Contact: Ekaterina Martemyanova [creation [point] norme [at] gmail [point] com] (creation.norme@gmail.com)

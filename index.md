@@ -1,4 +1,4 @@
-![picture alt](http://www.biusante.parisdescartes.fr/images/banque/pt/STLCGE01644.jpg =200px "Lupus érythémateux atrophique à progression excentrique. (Obs. par Thibierge, sous le titre Atrophie, Musée des moulages de l'Hôpital Saint-Louis)")
+![picture alt](http://www.biusante.parisdescartes.fr/images/banque/zoom/STLCGE01644.jpg "Lupus érythémateux atrophique à progression excentrique. (Obs. par Thibierge, sous le titre Atrophie, Musée des moulages de l'Hôpital Saint-Louis)")
 
 # Création de norme et de normalité: constructions et adaptations
 

@@ -1,4 +1,3 @@
-
 ![picture alt](http://www.biusante.parisdescartes.fr/images/banque/zoom/STLCGE01644.jpg "Lupus érythémateux atrophique à progression excentrique. (Obs. par Thibierge, sous le titre Atrophie, Musée des moulages de l'Hôpital Saint-Louis)")
 
 # Création de norme et de normalité: constructions et adaptations
@@ -14,7 +13,7 @@
    
    Accessoirement, la création de la norme est souvent accompagnée par la définition de l’anormal. Les deux éléments peuvent se présenter comme clés pour la construction de l’identité ou comme critère de la marginalisation. Il est donc question de définir les critères de norme (politique, législative, sociale, religieuse ou culturelle) et de normalité (perçue comme telle, intériorisée, du côté du « bien »).   
    
-   Enfin, la norme pose question au chercheur. Elle provient alors du travail de classification et de systématisation, réalisé tout au long de l'analyse scientifique. Le chercheur organise inévitablement son récit selon les valeurs prédéfinies par l’objet d’étude. Or, souvent, ce filtrage provient de l'état des sources ou de l'insuffisance de l'information. L'historien Henri-Irénée Marrou l'a dit : « l'archéologue, l'archiviste recueille tout, doit tout recueillir, ne rien laisser perdre du passé : il s'honore lorsqu'il peut retrouver chez un chiffonnier tel lot qu'une administration négligente avait vendu comme “papiers sans intérêt”, car il pourra toujours survenir un historien capable de poser la question pour laquelle ces papiers, ou ces menus tessons, prendront valeur de document » [Marrou, 1954].   
+   Enfin, la norme pose question au chercheur. Elle provient alors du travail de classification et de systématisation, réalisé tout au long de l'analyse scientifique. Le chercheur organise inévitablement son récit selon les valeurs prédéfinies par l’objet d’étude. Or, souvent, ce filtrage provient de l'état des sources ou de l'insuffisance de l'information. L'historien Henri-Irénée Marrou l'a dit : «* l'archéologue, l'archiviste recueille tout, doit tout recueillir, ne rien laisser perdre du passé : il s'honore lorsqu'il peut retrouver chez un chiffonnier tel lot qu'une administration négligente avait vendu comme “papiers sans intérêt”, car il pourra toujours survenir un historien capable de poser la question pour laquelle ces papiers, ou ces menus tessons, prendront valeur de document* » [Marrou, 1954].   
    
 
 ## Les communications devront s’inscrire dans un des axes suivants :
@@ -33,12 +32,12 @@ Contact: **Ekaterina Martemyanova** [creation [point] norme [at] gmail [point] c
 
 ## Orientation bibliographique :
 
-* Beaulande-Barraud, V., Marmursztejn, E., « ‪Conflits et concurrence de normes‪ », Médiévales, 2/2016 (n° 71), p. 5-12.
-* Boureau A., Gauvard Claude, R. Jacob, Charles de Miramon, « Les normes », dans J.-C. Schmitt et O.-G. Oexle éd., Les Tendances actuelles de l’histoire du Moyen Âge en France et en Allemagne, Paris, 2002, p. 461-492.
-* Cabouret Bernadette et Charles-Laforge Marie-Odile ed., préface de John Scheid, La norme religieuse dans l'Antiquité, colloque organisé les 14 et 15 décembre 2007 par les Universités Lyon 2 et Lyon 3, De Boccard, Paris, 2011.
-* Darnton R., Le Grand Massacre des chats : attitudes et croyances dans l’ancienne France, Paris, Robert Lafont, 1985.
-* Le Blanc, G., Canguilhem et les normes, Paris, PUF, 2015.
-* Leroy, Y., « La notion d'effectivité du droit », Droit et société, 3/2011 (n° 79), p. 715-732.
-* Marrou H.-I., De la connaissance historique, Paris, Le Seuil, 1954.
-* Thibierge, C., La force normative: naissance d'un concept, Paris, LGDJ, 2009
-* Veyne, P., Comment on écrit l’histoire. Essai d’épistémologie. Paris, Le Seuil, 2013.
+* Beaulande-Barraud, V., Marmursztejn, E., « Conflits et concurrence de normes », *Médiévales*, 2/2016, n° 71, p. 5-12.
+* Boureau A., Gauvard Claude, R. Jacob, Charles de Miramon, « Les normes », dans J.-C. Schmitt et O.-G. Oexle éd., *Les Tendances actuelles de l’histoire du Moyen Âge en France et en Allemagne*, Paris, 2002, p. 461-492.
+* Cabouret Bernadette et Charles-Laforge Marie-Odile ed., préface de John Scheid, *La norme religieuse dans l'Antiquité, colloque organisé les 14 et 15 décembre 2007 par les Universités Lyon 2 et Lyon 3*, Paris, De Boccard, 2011.
+* Darnton R., *Le Grand Massacre des chats : attitudes et croyances dans l’ancienne France*, Paris, Robert Lafont, 1985.
+* Le Blanc, G., *Canguilhem et les normes*, Paris, PUF, 2015.
+* Leroy, Y., « La notion d'effectivité du droit », *Droit et société*, 3/2011 (n° 79), p. 715-732.
+* Marrou H.-I., *De la connaissance historique*, Paris, Le Seuil, 1954.
+* Thibierge, C., *La force normative: naissance d'un concept*, Paris, LGDJ, 2009
+* Veyne, P., *Comment on écrit l’histoire. Essai d’épistémologie*. Paris, Le Seuil, 2013.

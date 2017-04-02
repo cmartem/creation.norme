@@ -1,4 +1,4 @@
-# Création de norme et de normalité: constructions et adaptations
+<p align="justify"># Création de norme et de normalité: constructions et adaptations
 
    Les définitions de la  « norme », du « normal » et du « typique » varient selon les périodes, les espaces et les contextes dans tous les domaines recouverts par les champs des études en sciences humaines et sociales: à l’heure actuelle, les notions des normes sociales, éthiques, religieuses et culturelles sont opératoires dans les sciences de l’homme. Le « normal » s’exprime, indirectement, à travers les préjugés, les « idées reçues », –Flaubert oblige ! – les répétitions ou bien au contraire à travers les silences de sources.   
    Dans les sphères de la politique où la norme est pensée, conceptualisée, institutionnalisée, sa construction peut être retrouvée. Par exemple, les historiens du droit se penchent sur l’élaboration des normes juridiques, souvent à travers la tension, la concurrence entre différents types d’instances normatives. Les tendances historiographiques se manifestent donc par le rapprochement entre histoire et droit en particulier et par l’élargissement du concept de norme au-delà du droit [Beaulande-Barraud et al., 2012]. Le quotidien lui-même est impacté par ces normes, intériorisées par les individus, ou au contraire, quand la norme est imposée par le haut, rejetées dans une opposition plus ou moins massive.   
@@ -33,3 +33,4 @@ Contact: **Ekaterina Martemyanova** [creation [point] norme [at] gmail [point] c
 * Thibierge, C., La force normative: naissance d'un concept, Paris, LGDJ, 2009
 * Veyne, P., Comment on écrit l’histoire. Essai d’épistémologie. Paris, Le Seuil, 2013.
 	
+</p>

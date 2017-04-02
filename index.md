@@ -1,3 +1,4 @@
+
 ![picture alt](http://www.biusante.parisdescartes.fr/images/banque/zoom/STLCGE01644.jpg "Lupus érythémateux atrophique à progression excentrique. (Obs. par Thibierge, sous le titre Atrophie, Musée des moulages de l'Hôpital Saint-Louis)")
 
 # Création de norme et de normalité: constructions et adaptations
@@ -23,6 +24,7 @@
 + Le filtrage de la recherche scientifique: quel effet est apporté par l’état/présentation des sources/information?
 
 Cette journée de doctorant.e.s s’inscrit dans un axe de recherche « Normes et exercice de la norme » et aura pour objectif de présenter les travaux des doctorants autour d’une question concernant tous les sujets de recherche de ces derniers. Elle pourra prendre une forme méthodologique ou concerner plus directement leurs recherches en cours. Les propositions de communications peuvent être envoyées **avant le 30 juin 2017** à l'adresse  *creation.norme@gmail.com*.  Les résumés sans titres ne doivent pas dépasser 1500 caractères, espaces compris.
+  
 Contact: **Ekaterina Martemyanova** [creation [point] norme [at] gmail [point] com] (creation.norme@gmail.com)
 
 

@@ -42,4 +42,3 @@ Contact: **Ekaterina Martemyanova** [creation [point] norme [at] gmail [point] c
 * Marrou H.-I., De la connaissance historique, Paris, Le Seuil, 1954.
 * Thibierge, C., La force normative: naissance d'un concept, Paris, LGDJ, 2009
 * Veyne, P., Comment on écrit l’histoire. Essai d’épistémologie. Paris, Le Seuil, 2013.
-</p>	

@@ -26,7 +26,7 @@
 + La destruction/transformation de la norme et du normal. La norme, que fabrique-t-elle? Quel est l'effet d'une anomalie que celle-ci produit sur la norme précédente? Pour exister, la norme, doit-elle faire face à des processus d’adaptation sociale?
 + Le filtrage de la recherche scientifique: quel effet est apporté par l’état/présentation des sources/information?
 
-Cette journée de doctorant.e.s s’inscrit dans un axe de recherche « Normes et exercice de la norme » et aura pour objectif de présenter les travaux des doctorants autour d’une question concernant tous les sujets de recherche de ces derniers. Elle pourra prendre une forme méthodologique ou concerner plus directement leurs recherches en cours. Les propositions de communications peuvent être envoyées **avant le 31 juillet 2017** à l'adresse  *creation.norme@gmail.com*.  Les résumés sans titres ne doivent pas dépasser 1500 caractères, espaces compris.
+Cette journée de doctorant.e.s s’inscrit dans un axe de recherche « Normes et exercice de la norme » et aura pour objectif de présenter les travaux des doctorants autour d’une question concernant tous les sujets de recherche de ces derniers. Elle pourra prendre une forme méthodologique ou concerner plus directement leurs recherches en cours. Les propositions de communications peuvent être envoyées **avant le 5 septembre 2017** à l'adresse  *creation.norme@gmail.com*.  Les résumés sans titres ne doivent pas dépasser 1500 caractères, espaces compris, et doivent être accompagnés d'une courte présentation de l'auteur.
 
 Organisateurs:
   
